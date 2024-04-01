@@ -1,1 +1,0 @@
-Lambda response body: Downloaded filesize: 100 MB for Lambdas: 1 from S3 in 0.5076861381530762 seconds

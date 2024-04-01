@@ -1,1 +1,0 @@
-Lambda response body: Accessed filesize: 50 MB for Lambdas: 1 in 0.6386516094207764 seconds
